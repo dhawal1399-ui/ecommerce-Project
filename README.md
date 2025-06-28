@@ -93,11 +93,4 @@ Dhawal Somkuwar
 Email: dhawalsomkuwar2@gmail.com
 GitHub: https://github.com/dhawal1399-ui
 
----
 
-Let me know if you'd like:
-- A deployment section (Render, Heroku, Vercel)
-- Screenshots/Badges
-- Live demo hosted link added
-
-I'm happy to tailor it further!
